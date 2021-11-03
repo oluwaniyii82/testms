@@ -29,3 +29,4 @@ Trivy_container_scanning:
   artifacts:
     paths: [gl-container-scanning-report.json]
 © 2021 GitHub, Inc.
+#
